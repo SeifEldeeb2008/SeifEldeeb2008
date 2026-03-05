@@ -6,16 +6,3 @@ Results-driven Front-End Web Developer with advanced certifications from Harvard
 
 💻 Tech Stack:
 C C# C++ Java JavaScript HTML5 CSS3 Windows Terminal Python PowerShell .Net NestJS NPM Next JS NodeJS Nodemon Nuxt JS AmazonDynamoDB SQLite MySQL Supabase Adobe Adobe Acrobat Reader Adobe After Effects Adobe Audition Adobe Creative Cloud Adobe Dreamweaver Adobe Fonts Adobe Illustrator Adobe InDesign Adobe Lightroom Adobe Lightroom Classic Adobe Photoshop Adobe Premiere Pro Unreal Engine Unity
-
-📊 GitHub Stats:
-
-
-
-
-🏆 GitHub Trophies
-
-
-✍️ Random Dev Quote
-
-
-🔝 Top Contributed Repo
